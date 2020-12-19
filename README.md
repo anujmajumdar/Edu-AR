@@ -27,3 +27,15 @@ https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Gea
 https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/ReciprocatingSaw/glTF/ReciprocatingSaw.gltf
 
 https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/2CylinderEngine/glTF/2CylinderEngine.gltf
+
+https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/AR%20Cell/animal%20cell.gltf
+
+https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Animal%20Cell/Animal%20Cell%20Detail.gltf
+
+https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Skeleton/skeleton.gltf
+
+https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Mitochondria/Mitochondria.gltf
+
+https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Brain/Brain.gltf
+
+https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Heart/Heart_.gltf
