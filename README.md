@@ -20,22 +20,23 @@ node app.js
 # Sample Model Links
 Try some models by using the links below to get started!
 
-https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Box/glTF/Box.gltf
+1. ANIMAL CELL: https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/AR%20Cell/animal%20cell.gltf
 
-https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/GearboxAssy/glTF/GearboxAssy.gltf
+2. ANIMAL CELL-2: https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Animal%20Cell/Animal%20Cell%20Detail.gltf
 
-https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/ReciprocatingSaw/glTF/ReciprocatingSaw.gltf
+3. SKELETON: https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Skeleton/skeleton.gltf
 
-https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/2CylinderEngine/glTF/2CylinderEngine.gltf
+4. MITOCHONDRIA: https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Mitochondria/Mitochondria.gltf
 
-https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/AR%20Cell/animal%20cell.gltf
+5. BRAIN: https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Brain/Brain.gltf
 
-https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Animal%20Cell/Animal%20Cell%20Detail.gltf
+6. HEART: https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Heart/Heart_.gltf
 
-https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Skeleton/skeleton.gltf
+7. BOX: https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Box/glTF/Box.gltf
 
-https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Mitochondria/Mitochondria.gltf
+8. GEARBOX: https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/GearboxAssy/glTF/GearboxAssy.gltf
 
-https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Brain/Brain.gltf
+9. RECIPROCATING SAW: https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/ReciprocatingSaw/glTF/ReciprocatingSaw.gltf
 
-https://raw.githubusercontent.com/VyomGarg47/Sample-GLTF-Models/main/Heart/Heart_.gltf
+10. CYLINDER ENGINE: https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/2CylinderEngine/glTF/2CylinderEngine.gltf
+
